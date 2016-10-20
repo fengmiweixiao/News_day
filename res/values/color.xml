@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#00ffff</color>
+    <color name="gray">#b4a7d6</color>
+    <color name="red">#FF0000</color>
+     <color name="gl_background">#737373</color>
+</resources>
